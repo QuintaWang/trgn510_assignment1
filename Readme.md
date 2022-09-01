@@ -1,4 +1,4 @@
-ssignment 1
+assignment 1
 ## Instructions
 The instructions are in this location for my homework
 ## Usage
