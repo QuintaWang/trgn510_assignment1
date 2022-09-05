@@ -1,0 +1,128 @@
+    1  mkdir assignments
+    2  cd
+    3  cd assignments
+    4  ~/assignments
+    5  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+    6  cd trgn510_assignment1
+    7  vim Readme.md
+    8  git add .-A
+    9  git commit -m "First commit"
+   10  git push
+   11  cd assignments
+   12  git clone 
+   13  cd assignments
+   14  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+   15  cd trgn510_assignment1
+   16  vim Readme.md
+   17  cd assignments
+   18  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+   19  cd trgn510_assignment1
+   20  vim Readme.md
+   21  cd assignments
+   22  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+   23  cd trgn510_assignments
+   24  cd trgn510_assignment1
+   25  vim Readme.md
+   26  cd trgn510_assignment1
+   27  cd assignments
+   28  cd trgn510_assignment1
+   29  vim Readme.md
+   30  git add . -A
+   31  git commit -m "First commit"
+   32  git push
+   33  git add . -A
+   34  git commit -m "First commit"
+   35  git push
+   36  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+   37  ~/assignments/trgn_assignment1
+   38  cd ~/assignments/trgn_assignment1
+   39  cd assignments
+   40  mkdir assignments
+   41  cd..
+   42  cd ..
+   43  cd assignments
+   44  ls
+   45  cd trgn510_assignment1
+   46  ls
+   47  cd assignments
+   48  ls
+   49  cd ..
+   50  ls
+   51  rmdir assignments
+   52  cd trgn510_assignment1
+   53  ls
+   54  vim README.md
+   55  cd ..
+   56  ls
+   57  rmdir trgn510_assignment1
+   58  cd trgn510_assignment1
+   59  rmdir README.md
+   60  rm README.md
+   61  cd ..
+   62  rmdir trgn510_assignment1
+   63  cd trgn510_assignment1
+   64  ls
+   65  cd ..
+   66  mkdir problem1
+   67  history
+   68  $>myhistory.txt
+   69  ls
+   70  cd assignments
+   71  git clone https://github.com/QuintaWang/trgn510_assignment1.git
+   72  cd trgn510_assignment1
+   73  ls
+   74  vim Readme.md
+   75  git add . -A
+   76  git rm --cached trgn510_assignment1
+   77  -f
+   78  git rm -f --cached trgn510_assignment1
+   79  git add . -A
+   80  git commit -m "First commit"
+   81  jiaxinwa@usc.edu
+   82  git config --global jiaxinwa@usc.edu
+   83  git config QuintaWang
+   84  git config quintawang@gmail.com
+   85  git config git config --global QuintaWang
+   86  git commit -m "First commit"
+   87  git config --global "quintawang@gmail.com"
+   88  git config --global "QuintaWang"
+   89  git config --global user.email "quintawang@gmail.com"
+   90  git config --global user.name "QuintaWang""
+   91  git commit -m "First commit"
+   92  :qw
+   93  :wq
+   94  i
+   95  cd assignments
+   96  ls
+   97  cd trgn510_assignment1
+   98  git add . -A
+   99  git commit -m "First commit"
+  100  git config --global user.email "quintawang@gmail.com"
+  101  git config --global user.name "QuintaWang"
+  102  git commit -m "First commit"
+  103  git push
+  104  ls
+  105  ls -la
+  106  rm .Readme.md.swo
+  107  rm .Readme.md.swp
+  108  ls
+  109  ls -la
+  110  rm README.md
+  111  ls
+  112  ls -la
+  113  git add . -A
+  114  git commit -m "First commit"
+  115  git push
+  116  ls
+  117  rm -problem1
+  118  rm -r problem1
+  119  ls
+  120  rm -f myhistory.txt
+  121  ls
+  122  mkdir trgn_assignment1
+  123  ls
+  124  cd trgn_assignment1
+  125  mkdir problem1
+  126  ls
+  127  cd problem1
+  128  history > myhistory.txt
